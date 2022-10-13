@@ -5,7 +5,7 @@ const SuperChild = () => {
   return (
     <>
       <h1 style={{ backgroundColor: AppColor }}>
-        I am from SuperChild Component
+        I am from Super Child Component
       </h1>
     </>
   );
