@@ -7,6 +7,7 @@ const SuperChild = () => {
       <h1 style={{ backgroundColor: AppColor }}>
         I am from Super Child Component
       </h1>
+      <p> UseContext Hook is very Interesting to learn and fun with Component . I really enjoy it.</p>
     </>
   );
 };
